@@ -1,0 +1,8 @@
+{
+  "name": "genpark-multi-agent-workspace-state-lock-and-broadcast-skill",
+  "version": "1.0.0",
+  "description": "Manages distributed locks on resources and broadcasts change events to peer agents in shared workspaces",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
