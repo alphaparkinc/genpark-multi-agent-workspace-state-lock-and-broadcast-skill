@@ -1,0 +1,1 @@
+# genpark-multi-agent-workspace-state-lock-and-broadcast-skill\n\nManages distributed locks on resources and broadcasts change events to peer agents in shared workspaces.\n\n100% Python Standard Library implementation with zero external dependencies.
