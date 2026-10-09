@@ -1,0 +1,1 @@
+[project]\nname = "genpark-multi-agent-workspace-state-lock-and-broadcast-skill"\nversion = "1.0.0"\ndescription = "Manages distributed locks on resources and broadcasts change events to peer agents in shared workspaces"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
